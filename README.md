@@ -1,4 +1,4 @@
 # Robotics-Project
 Software and posters for the robotics competition
 # Introduction Video 
-[![Video](https://img.youtube.com/vi/DpkYuB1YJyc/maxresdefault.jpg)]([[https://www.youtube.com/watch?v=jXnoFqcAkQA](https://youtu.be/LygTKk-pKUs](https://www.youtube.com/watch?v=DpkYuB1YJyc&ab_channel=Pigeon)https://www.youtube.com/watch?v=DpkYuB1YJyc&ab_channel=Pigeon))
+[![Video](https://img.youtube.com/vi/DpkYuB1YJyc/maxresdefault.jpg)](https://www.youtube.com/watch?v=DpkYuB1YJyc)
